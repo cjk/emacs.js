@@ -20,7 +20,7 @@
 (load-conf-file "jade-mode")
 (load-conf-file "json")
 
-(load-conf-file "paredit")
+;; (load-conf-file "paredit")
 (load-conf-file "lisp")
 
 (load-conf-file "markdown")
