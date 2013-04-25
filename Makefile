@@ -4,7 +4,6 @@ DONE="${CHECK} DONE."
 all: install
 
 install: init-submodules install-js2mode
-	@mkdir libs/color-theme/themes
 	@echo $(DONE)
 
 install-js2mode:

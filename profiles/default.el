@@ -5,7 +5,6 @@
 ;; (load-conf-file "basic-bindings")
 ;; (load-conf-file "linum")
 (load-conf-file "colorize-compilation")
-;; (load-conf-file "colors")
 (load-conf-file "optimize")
 ;; (load-conf-file "cmd")
 ;;(load-conf-file "debug")
