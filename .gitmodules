@@ -9,7 +9,7 @@
 	url = https://github.com/magnars/dash.el.git
 [submodule "libs/expand-region"]
 	path = libs/expand-region
-	url = https://github.com/magnars/expand-region.el.git
+	url = file:///home/cjk/src/expand-region.el
 [submodule "libs/jade-mode"]
 	path = libs/jade-mode
 	url = https://github.com/brianc/jade-mode.git
@@ -21,7 +21,7 @@
 	url = https://github.com/magnars/js2-refactor.el.git
 [submodule "libs/markdown-mode"]
 	path = libs/markdown-mode
-	url = git://jblevins.org/git/markdown-mode.git
+	url = file:///home/cjk/src/markdown-mode
 [submodule "libs/mark-multiple"]
 	path = libs/mark-multiple
 	url = https://github.com/magnars/mark-multiple.el.git
